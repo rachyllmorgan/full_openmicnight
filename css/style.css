@@ -1,3 +1,12 @@
+.modal-header {
+	padding-top: 2em;
+	text-align: center;
+}
+
+.modal_desc {
+	text-align: center;
+}
+
 #footer {
 	padding-bottom: 3em;
 }

@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+    $(document).ready(function(){
+        $("#myModal").modal('show');
+    });
+
 (function($) {
     "use strict"; // Start of use strict
 
